@@ -52,6 +52,8 @@
     }
   ],
   "profile": {
-    "name": "user 1"
+    "name": "User Name",
+    "email": "user@gmail.com",
+    "password": "12345"
   }
 }

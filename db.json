@@ -1,11 +1,15 @@
 {
   "plays": [
-    { "id": 1,
-     "poster_url": "https://in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-chal-tuzi-seat-pakki-2019-4-25-t-13-6-45.jpg",
-     "title": "Chal, Tuzi seat pakki" },
-    { "id": 2,
-     "poster_url": "https://in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-chal-tuzi-seat-pakki-2019-4-25-t-13-6-45.jpg",
-     "title": "Chal, Tuzi seat pakki" }
+    {
+      "id": 1,
+      "poster_url": "https://in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-chal-tuzi-seat-pakki-2019-4-25-t-13-6-45.jpg",
+      "title": "Chal, Tuzi seat pakki"
+    },
+    {
+      "id": 2,
+      "poster_url": "https://in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-chal-tuzi-seat-pakki-2019-4-25-t-13-6-45.jpg",
+      "title": "Chal, Tuzi seat pakki"
+    }
   ],
   "profile": {
     "name": "user 1"
